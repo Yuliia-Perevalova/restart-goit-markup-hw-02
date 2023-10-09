@@ -53,7 +53,7 @@ body {
 .header-studio:hover,
 .header-studio:focus {
     color: #404BBF;
-    text-decoration: underline;  width: 48px height: 4px top: 44px border-radius: 2px;
+    text-decoration: underline; 
 }
 
 .header-portfolio {
@@ -140,8 +140,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFF;
-        
-        cursor: pointer;
+    cursor: pointer;
 }
 .main-button:hover,
 .main-button:focus {

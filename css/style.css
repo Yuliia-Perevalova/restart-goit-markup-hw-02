@@ -14,11 +14,11 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4D5AE5;
     text-decoration: none;
 }
 
 .header-logo-first {
-        color: #4D5AE5;
 }
 
 .header-logo-second {

@@ -59,11 +59,27 @@ body {
     text-decoration: underline;  width: 48px height: 4px top: 44px border-radius: 2px;
 }
 
+.header-portfolio {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
 .header-portfolio:hover,
 .header-portfolio:focus {
     color: #404BBF;
     text-decoration: underline;
     width: 66px height: 4px top: 44px border-radius: 2px;
+}
+
+.header-contacts {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .header-contacts:hover,

@@ -29,7 +29,7 @@ body {
         text-decoration: none;
 }
 
-.navigation {}
+.navig-test {}
 .list {
     list-style-type: none;
     text-decoration: none;
@@ -120,6 +120,7 @@ body {
 .header-tel:focus {
     color: #404BBF;
 }
+/*-------first section---------*/
 .main-sector-title {
     background: #2E2F42;
 }
@@ -149,34 +150,36 @@ body {
     background-color: #404BBF;
 }
 
-/*----------------section-three-------------------*/
+/*----------------section-two-------------------*/
 .main-sector-title {
     }
 
 .main-second-title {
-    color: #2E2F42;
-        font-size: 20px;
         font-weight: 500;
+        font-size: 20px;
         line-height: 1.2;
-        letter-spacing: 0.4px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
 }
 
 .main-paragrah {
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 0.32px;
+        letter-spacing: 0.02em;
+        color: #434455;
+        /*---------section three------*/
 }
 .main-section-2 {
-    background-color: #F4F4FD;
+    background-color: #f4f4fd;
 }
 .section-title {
-    color: #2E2F42;
-        text-align: center;
-        font-size: 36px;
         font-weight: 700;
+        font-size: 36px;
         line-height: 1.11;
-        letter-spacing: 0.72px;
+        text-align: center;
+        letter-spacing: 0.02em
         text-transform: capitalize;
+        color: #2E2F42;
 }
 
 .section-list {

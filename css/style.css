@@ -153,9 +153,11 @@ body {
 .title-additional {
     display: none;
 }
+.main-blok-items {
+    
+}
 
-
-.action-title-first,
+.main-action-title,
 .action-title-second,
 .action-title-third {
         font-weight: 500;

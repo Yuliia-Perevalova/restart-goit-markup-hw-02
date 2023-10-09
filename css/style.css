@@ -117,9 +117,9 @@ body {
     color: #404BBF;
 }
 /*-------first section---------*/
-.main-part-1 {}
+.main-part {}
 
-.main-sector-1 {
+.main-sector {
     background: #2E2F42;
 }
 
@@ -171,7 +171,7 @@ body {
         color: #434455;
         /*---------section three------*/
 }
-.main-section-2 {
+.main-section-second {
     background-color: #f4f4fd;
 }
 .section-title {
@@ -219,7 +219,7 @@ body {
     background: #2E2F42;
 }
 
-.footer-logo-1 {
+.footer-logo-first {
     color: #4D5AE5;
         font-family: Raleway; sans-serif;
         font-size: 18px;
@@ -230,9 +230,9 @@ body {
         text-decoration: none;
 }
 
-.footer-logo-2 {
+.footer-logo-second {
     color: #F4F4FD;
-    font-family: Raleway; sans-serif;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;

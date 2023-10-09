@@ -96,16 +96,13 @@ body {
 .main-title {
     color:#FFF;
         text-align: center;
-        font-family: Roboto;
         font-size: 56px;
-        font-style: normal;
         font-weight: 700;
         line-height: 1.44;
         letter-spacing: 1.12px;
         background: #2E2F42;
-        width: 1440px;
-         height: 600px;
-        flex-shrink: 0;
+        
+    
 }
 
 .main-button {
@@ -116,14 +113,9 @@ body {
         line-height: 1.33;
         letter-spacing: 0.64px;
 
-        display: inline-flex;
-         padding: 16px 32px;
-         align-items: flex-start;
-         gap: 10px;
 
         border-radius: 4px;
          background: var(--IRIS, #4D5AE5);
-        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
         color: #FFF;
         cursor: pointer;
 }

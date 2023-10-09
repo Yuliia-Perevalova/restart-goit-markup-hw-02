@@ -25,7 +25,7 @@ body {
  color: #2E2F42;
 }
 
-.navig-test {}
+.navig {}
 
 .list {
     list-style-type: none;
@@ -42,9 +42,7 @@ body {
 }
     
 
-.header-studio-first,
-.header-studio-second,
-.header-studio-third {
+.header-studio {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -53,11 +51,7 @@ body {
 }
 
 .header-studio-first:hover,
-.header-studio-first:focus,
-.header-studio-second:hover,
-.header-studio-second:focus,
-.header-studio-third:hover,
-.header-studio-third:focus {
+.header-studio-first:focus {
     color: #404BBF;
     text-decoration: underline;  width: 48px height: 4px top: 44px border-radius: 2px;
 }

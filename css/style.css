@@ -149,17 +149,20 @@ body {
 }
 
 /*----------------section-two-------------------*/
+.descrip-section {
 
+}
 .title-additional {
     display: none;
 }
-.main-blok-items {
-    
+.descrip-list {
+
+}
+.descrip-blok-items {
+
 }
 
-.main-action-title,
-.action-title-second,
-.action-title-third {
+.descrip-title {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;

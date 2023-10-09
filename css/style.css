@@ -50,8 +50,8 @@ body {
     color: #2E2F42;
 }
 
-.header-studio-first:hover,
-.header-studio-first:focus {
+.header-studio:hover,
+.header-studio:focus {
     color: #404BBF;
     text-decoration: underline;  width: 48px height: 4px top: 44px border-radius: 2px;
 }

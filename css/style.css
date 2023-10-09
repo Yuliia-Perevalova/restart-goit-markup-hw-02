@@ -153,10 +153,11 @@ body {
 .title-additional {
     display: none;
 }
-.main-sector-title {
-    }
 
-.action-title {
+
+.action-title-first,
+.action-title-second,
+.action-title-third {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;

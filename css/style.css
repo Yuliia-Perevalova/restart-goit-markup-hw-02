@@ -183,7 +183,9 @@ body {
         text-transform: capitalize;
         color: #2E2F42;
 }
-
+.last-list {
+    
+}
 .section-list {
 }
 
@@ -239,7 +241,7 @@ body {
     text-transform: uppercase;
 text-decoration: none;}
 
-.footer-paragraf {
+.footer-text-3 {
         font-size: 16px;
         line-height: 1.5;
         color: #F4F4FD;

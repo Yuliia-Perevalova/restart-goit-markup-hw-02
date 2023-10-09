@@ -151,8 +151,7 @@ body {
 
 /*----------------section-three-------------------*/
 .main-sector-title {
-    background: var(--CLOUD, #F4F4FD);
-}
+    }
 
 .main-second-title {
     color: #2E2F42;
@@ -167,7 +166,9 @@ body {
         line-height: 1.5;
         letter-spacing: 0.32px;
 }
-
+.main-section-2 {
+    background-color: #F4F4FD;
+}
 .section-title {
     color: #2E2F42;
         text-align: center;

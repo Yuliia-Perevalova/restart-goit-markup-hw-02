@@ -138,7 +138,7 @@ body {
 
 .main-button {
     background: var(--IRIS, #4D5AE5);
-    font-family: Roboto; sans-serif;
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -179,16 +179,17 @@ body {
         font-size: 36px;
         line-height: 1.11;
         text-align: center;
-        letter-spacing: 0.02em
+        letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2E2F42;
 }
 
 .section-list {
-    list-style-type: none;
 }
 
-.section-items {}
+.section-items {
+    background-color: #FFFFFF
+}
 
 .section-names {
     color: #2E2F42;

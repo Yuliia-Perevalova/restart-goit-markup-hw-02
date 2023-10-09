@@ -8,11 +8,11 @@ body {
 .header {}
 
 .header-logo-1 {
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 1.33;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
     text-decoration: none;
@@ -33,17 +33,18 @@ body {
 
 .header-list {
     list-style-type: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #2E2F42;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.33;
-        letter-spacing: 0.32px;
 }
 
 .header-studio {
    
 }
-.header-studio:hover {
+.header-studio:hover,
+.header-studio:focus {
     color: #404BBF;
     text-decoration: underline;  width: 48px height: 4px top: 44px border-radius: 2px;
 }
@@ -71,54 +72,53 @@ body {
 
 .header-mail {
     font-size: 16px;
-    line-height: 1.33;
+    line-height: 1.5;
     letter-spacing: 0.32px;
     color: #434455;
     text-decoration: none;
 }
-.header-mail:hover {
+.header-mail:hover,
+.header-mail:focus {
   color: #404BBF;
 }
 
 .header-tel {
     font-size: 16px;
-    line-height: 1.33;
+    line-height: 1.5;
     letter-spacing: 0.32px;
     color: #434455;
     text-decoration: none;
 }
-.header-tel:hover {
+.header-tel:hover,
+.header-tel:focus {
     color: #404BBF;
 }
-.main {}
+.main {
+    background: #2E2F42;
+}
 
-.main-title {
-    color:#FFF;
-        text-align: center;
-        font-size: 56px;
-        font-weight: 700;
-        line-height: 1.44;
-        letter-spacing: 1.12px;
-        background: #2E2F42;
-        
-    
+.main-title { 
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color:#FFF;  
 }
 
 .main-button {
-    font-family: Roboto;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 500;
-        line-height: 1.33;
-        letter-spacing: 0.64px;
-
-
-        border-radius: 4px;
-         background: var(--IRIS, #4D5AE5);
-        color: #FFF;
+    background: var(--IRIS, #4D5AE5);
+    font-family: Roboto; sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFF;
+        
         cursor: pointer;
 }
-.main-button:hover {
+.main-button:hover,
+.main-button:focus {
     background-color: #404BBF;
 }
 

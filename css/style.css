@@ -71,7 +71,7 @@ body {
 .header-portfolio:focus {
     color: #404BBF;
     text-decoration: underline;
-    width: 66px height: 4px top: 44px border-radius: 2px;
+   
 }
 
 .header-contacts {
@@ -86,8 +86,7 @@ body {
 .header-contacts:focus {
     color: #404BBF;
     text-decoration: underline;
-    width: width: 67px height: 4px top: 44px border-radius: 2px;
-}
+   
 
 .header-address {
     font-style: normal;
@@ -153,6 +152,10 @@ body {
 }
 
 /*----------------section-two-------------------*/
+
+.title-additional {
+    display: none;
+}
 .main-sector-title {
     }
 
@@ -184,7 +187,7 @@ body {
         color: #2E2F42;
 }
 .last-list {
-    
+
 }
 .section-list {
 }
@@ -214,7 +217,6 @@ body {
 .footer {
     width: 1440px;
         height: 312px;
-        flex-shrink: 0;
         background: var(--NAVY-BLUE, #2E2F42);
 }
 

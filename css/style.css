@@ -213,37 +213,34 @@ body {
 
 .section {}
 
-.footer {
+.footer-end {
     width: 1440px;
-        height: 312px;
-        background: var(--NAVY-BLUE, #2E2F42);
+    height: 312px;
+    background: #2E2F42;
 }
 
 .footer-logo-1 {
-    color: var(--IRIS, #4D5AE5);
+    color: #4D5AE5;
         font-family: Raleway; sans-serif;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
-        /* 116.667% */
         letter-spacing: 0.54px;
         text-transform: uppercase;
         text-decoration: none;
 }
 
 .footer-logo-2 {
-    color: var(--CLOUD, #F4F4FD);
+    color: #F4F4FD;
     font-family: Raleway; sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
 text-decoration: none;}
 
-.footer-text-3 {
-        font-size: 16px;
+.footer-text {
         line-height: 1.5;
         color: #F4F4FD;
         letter-spacing: 0.02em;
